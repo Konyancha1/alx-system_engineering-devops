@@ -1,0 +1,1 @@
+This is a directory conatining commands on shell permissions
