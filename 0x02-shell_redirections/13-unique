@@ -1,0 +1,4 @@
+#!/bin/bash
+cat <file_name> | sort |uniq -u
+
+
